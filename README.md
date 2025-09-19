@@ -1,5 +1,5 @@
 # HTML-NOTES- 🚀
-welcome everyone !☺️ This is my first ever hackathon project! This website was created as part of the HTML hackathon from web development course by #coderarmy9 🙏🏻
+welcome everyone !☺️ This is my first ever hackathon project! This website was created as part of the HTML hackathon from web development course by @coderarmy9 🙏🏻
 
 👉🏻This project contain documentations of my 6-day HTML lecture series which includes the concepts from networking basics to all the concepts of HTML.
 
